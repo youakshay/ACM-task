@@ -1,0 +1,42 @@
+
+        header{
+            background-color: brown;
+            height: 70px;
+        }
+        #home{
+            margin-top: 30px;
+            margin-left: 750px;
+            width: 100px;
+            background-color: cornflowerblue;
+            height: 40px;
+        }
+        nav{
+            background-color: rgb(150, 121, 5);
+            height: 50px;
+
+        }
+        body{
+            background-color: darkcyan;
+        }
+        #area{
+            margin-left: 150px;
+            margin-top: 30px;
+        }
+        fieldset{
+            width: 700px;
+            margin-left: 450px;
+            margin-top: 30px;
+            background-color: rgb(5, 56, 151);
+        }
+        #login{
+            margin-left: 100px;
+            margin-top: 25px;
+            width: 100px;
+            height: 35px;
+            border-radius: 50px;
+            border-color: darkgreen;
+            border-width: 2px;
+            background-color: rgb(255, 0, 0);
+            border-bottom-color: darkturquoise;
+            border-top-color: darkviolet;
+        }
